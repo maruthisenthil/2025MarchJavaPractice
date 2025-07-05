@@ -1,0 +1,5 @@
+// Cheat Sheet
+// Static calling Static - CMA to CMA  - No object creation : call it using class name/directly
+// Non-Static calling Non-static - direct calling
+// Non-static calling Static : - no object creation - call it using class name/ directly
+// Static calling Non-static : - Create the Object/ use call by reference
